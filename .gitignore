@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# vim swap files
+.*.swo
+.*.swo
+*.swp
+*.swp
+
+# ignoring uncompressed data files. They'll be stored as zips
+*.json
+*.csv
