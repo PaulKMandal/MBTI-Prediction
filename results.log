@@ -136,3 +136,87 @@ I was playing around with big batch sizes and many epochs
 Highest accuracy achieved was 79.6% at 6/27/2018 0:48:30
 Accuracy Range : [77 - 79%]
 
+=================================
+6/27/2018 10:25:22
+
+SEED:	400 
+Layer1:	['16', 'relu', 10000] 
+Layer2:	['16', 'relu'] 
+Layer3:	['4', 'sigmoid'] 
+Generalizers:	
+Compilation:	['rmsprop', 'binary_crossentropy', 'accuracy'] 
+Training: EPOCHS 50 | BATCH SIZE 4000
+	RESULTS:	LOSS:0.5866669438680013 | ACCURACY:0.6870000004768372
+
+=================================
+6/27/2018 10:48:6
+
+SEED:	400 
+Layer1:	['16', 'relu', 10000] 
+Layer2:	['16', 'relu'] 
+Layer3:	['4', 'sigmoid'] 
+Generalizers:	
+Compilation:	['rmsprop', 'binary_crossentropy', 'accuracy'] 
+Training: EPOCHS 3 | BATCH SIZE 128
+	RESULTS:	LOSS:0.5858962899843851 | ACCURACY:0.6981666668256123
+
+=================================
+6/27/2018 11:25:15
+
+SEED:	400 
+Layer1:	['16', 'relu', 10000] 
+Layer2:	['16', 'relu'] 
+Layer3:	['4', 'sigmoid'] 
+Generalizers:	
+Compilation:	['rmsprop', 'binary_crossentropy', 'accuracy'] 
+Training: EPOCHS 3 | BATCH SIZE 128
+	RESULTS:	LOSS:0.5768061073621115 | ACCURACY:0.7001666671435038
+
+=================================
+6/27/2018 11:25:50
+
+SEED:	400 
+Layer1:	['16', 'relu', 10000] 
+Layer2:	['16', 'relu'] 
+Layer3:	['4', 'sigmoid'] 
+Generalizers:	
+Compilation:	['rmsprop', 'binary_crossentropy', 'accuracy'] 
+Training: EPOCHS 6 | BATCH SIZE 128
+	RESULTS:	LOSS:0.6957056617736816 | ACCURACY:0.6696666671435039
+
+=================================
+6/27/2018 11:26:22
+
+SEED:	400 
+Layer1:	['16', 'relu', 10000] 
+Layer2:	['16', 'relu'] 
+Layer3:	['4', 'sigmoid'] 
+Generalizers:	
+Compilation:	['rmsprop', 'binary_crossentropy', 'accuracy'] 
+Training: EPOCHS 2 | BATCH SIZE 128
+	RESULTS:	LOSS:0.5984242766698201 | ACCURACY:0.7069999998410543
+
+=================================
+6/27/2018 15:17:54
+
+SEED:	400 
+Layer1:	['16', 'relu', 10000] 
+Layer2:	['16', 'relu'] 
+Layer3:	['4', 'sigmoid'] 
+Generalizers:	
+Compilation:	['rmsprop', 'binary_crossentropy', 'accuracy'] 
+Training: EPOCHS 40 | BATCH SIZE 4000
+	RESULTS:	LOSS:0.6068108436266582 | ACCURACY:0.6931666668256123
+
+=================================
+6/27/2018 15:20:58
+
+SEED:	400 
+Layer1:	['16', 'relu', 10000] 
+Layer2:	['16', 'relu'] 
+Layer3:	['4', 'sigmoid'] 
+Generalizers:	
+Compilation:	['rmsprop', 'binary_crossentropy', 'accuracy'] 
+Training: EPOCHS 50 | BATCH SIZE 2000
+	RESULTS:	LOSS:0.6479647378921509 | ACCURACY:0.6700000004768372
+
