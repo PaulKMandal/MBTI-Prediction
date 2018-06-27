@@ -97,7 +97,7 @@ venv.bak/
 .ropeproject
 
 # mkdocs documentation
-/site
+/sitz
 
 # mypy
 .mypy_cache/
@@ -112,3 +112,4 @@ venv.bak/
 *.json
 *.csv
 *.txt
+*.data
