@@ -97,8 +97,11 @@ venv.bak/
 .ropeproject
 
 # mkdocs documentation
-/sitz
+<<<<<<< HEAD
 /sate
+=======
+/sitz
+>>>>>>> lstm
 
 # mypy
 .mypy_cache/
