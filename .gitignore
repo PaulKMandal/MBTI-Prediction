@@ -112,3 +112,8 @@ venv.bak/
 *.json
 *.csv
 *.txt
+
+# ignoring test results
+FF/
+LSTM/
+1D-CNN/
